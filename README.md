@@ -6,7 +6,7 @@
 
 ## How do I publicize my membership?
 
-We added you to this org, but it's your choice to publicize it. Publicizing this allows others to see what awesome badges you've unlocked on Coderwall. To publicize your membership, visit this organization's home page, click the member's tab and click 'Publicize membership'.
+When we add you to this organization, your membership is concealed. Publicizing your membership in this organization allows others to see what awesome badges you've unlocked on Coderwall. To publicize your membership, visit this organization's home page, click the member's tab and click 'Publicize membership'.
 ![Publicize](http://f.cl.ly/items/1I1K1h1F301P2C2o2r3B/publicize.jpeg)
 
 ## How do I conceal my membership?
