@@ -7,12 +7,12 @@
 ## How do I publicize my membership?
 
 We added you to this org, but it's your choice to publicize it. Publicizing this allows others to see what awesome badges you've unlocked on Coderwall. To publicize your membership, visit this organization's home page, click the member's tab and click 'Publicize membership'.
-![Publicize](http://cl.ly/image/031E2L3K2H1Y)
+![Publicize](http://f.cl.ly/items/1I1K1h1F301P2C2o2r3B/publicize.jpeg)
 
 ## How do I conceal my membership?
 
 Similar to publicizing your membership, visit this organization's home page, click the member's tab and click 'Conceal membership'.
-![Conceal](http://cl.ly/image/2v16013q1g2n)
+![Conceal](http://f.cl.ly/items/3l0L431t2x073F290f1v/conceal.jpeg)
 
 
 ## How do I unlock the Forked achievement?
